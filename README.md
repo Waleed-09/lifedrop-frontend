@@ -108,6 +108,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
+🌐 **Live Demo**: https://lifedrop-frontend.vercel.app/
+
 ## 📄 License
 
 This project is licensed under the MIT License.
