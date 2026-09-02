@@ -41,8 +41,8 @@
 - **HTTP Client**: [Axios](https://axios-http.com/)
 
 ### **Backend & Database Integration**
-- **Backend API**: PHP (Laravel / REST API) with JWT Bearer Token Authentication
-- **Database**: MySQL (`lifedrop_database.sql` schema included in root of this directory)
+- **Backend API**: PHP (Laravel / REST API) with JWT Bearer Token Authentication.
+- **Database**: MySQL (`lifedrop_database.sql` schema included in root of this directory).
 
 ---
 
